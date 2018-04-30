@@ -1,3 +1,4 @@
+
 package nPuzzle.core;
 
 import java.io.File;
